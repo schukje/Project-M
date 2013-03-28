@@ -63,7 +63,7 @@
     <!-- External-drop widget pick title.  This is shown as the title of the
          dialog which allows you to pick which widgets to handle a particular
          drop if there are multiple choices. [CHAR_LIMIT=35] -->
-    <string name="external_drop_widget_pick_title">Choose widget to create</string>
+    <string name="external_drop_widget_pick_title">Choose a widget to create</string>
 
     <!-- Folders -->
     <skip />
